@@ -1,4 +1,4 @@
-public class Queue implements DataStructure{
+ public class Queue implements DataStructure{
     Object[] objects = new Object[100];
     int nextGet = 0;
     int nextPut = 0;
