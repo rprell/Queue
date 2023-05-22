@@ -3,7 +3,7 @@ import java.io.FilterOutputStream;
 public class Main {
 
     public static void main(String[] args) {
-         Queue myQ = new Queue();
+        Queue myQ = new Queue();
         myQ.put("Riley");
         myQ.put("Prell");
         myQ.put("SLA");
